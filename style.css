@@ -1,0 +1,25 @@
+#btnsubmit {
+    background: orangered;
+    color: #fff;
+    font-weight: 700;
+}
+
+.site-service-item .icon span {
+    color: white;
+}
+
+.site-service-item .icon {
+    background: orangered;
+}
+
+.site-footer .social-item>span {
+    color: orangered;
+}
+
+.site-navbar.scrolled .navbar-nav>li>a.active {
+    color: orangered !important;
+}
+
+.site-navbar.scrolled.bg-light {
+    padding: 0;
+}

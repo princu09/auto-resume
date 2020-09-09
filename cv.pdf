@@ -1,0 +1,17 @@
+<a href="https://colorlib.com/wp/templates/"><img src="https://colorlib.com/wp/wp-content/uploads/sites/2/colorlib-push-logo.png" alt="Colorlib logo"></a>
+<h1 style="text-align:center;">Thank you for using our template!</h1>
+<p style="text-align:center;">For more awesome templates please visit <span id="fw-nfg"><a href="https://colorlib.com/wp/templates/">Colorlib</a></span id="fw-nfg">.</p>
+<br>
+<p style="text-align:center; color:red;"><span id="fw-nfg">Copyright information for the template can't be altered/removed unless you purchase a license.</span id="fw-nfg">
+
+<p style="text-align:center;"><span id="fw-nfg">Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).</span id="fw-nfg">
+
+<p style="text-align:center;"><span id="fw-nfg">More information about the license is available <a href="https://colorlib.com/wp/licence/">here</a></span id="fw-nfg">.</p>
+
+<style>
+img {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20%;
+}
+</style>
